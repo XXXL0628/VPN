@@ -1,5 +1,5 @@
 # VPN
-手机端VPN--不知道还有没有用
+给的文件都是手机端VPN-----但是不知道还有没有用
 
 ## 电脑VPN使用
 [MEET](https://www.ftest.cc/register?aff=27486)或者
